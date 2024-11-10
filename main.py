@@ -10,8 +10,8 @@ from cerebras.frameworks.langchain import CerebrasLLM  # Cerebras LLM integratio
 import os
 os.environ["NEO4J_URI"] = "neo4j+s://<your_neo4j_uri>"
 os.environ["NEO4J_USERNAME"] = "neo4j"
-os.environ["NEO4J_PASSWORD"] = "<your_password>"
-os.environ["CEREBRAS_API_KEY"] = "<your_cerebras_api_key>"
+os.environ["NEO4J_PASSWORD"] = "<**********************>"
+os.environ["CEREBRAS_API_KEY"] = "<**********************>"
 
 # Initialize Neo4j Graph
 graph = Neo4jGraph()
