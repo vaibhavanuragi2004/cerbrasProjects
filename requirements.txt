@@ -1,0 +1,11 @@
+langchain==0.1
+langchain-core==0.1
+langchain-community==0.1
+langchain-openai==0.1
+langchain-experimental==0.1
+neo4j==5.8.0
+wikipedia-api==0.5.4
+tiktoken==0.3.3
+yfiles-jupyter-graphs==1.0.0
+cerebras-framework==0.4.3  
+pydantic==1.10.2  
